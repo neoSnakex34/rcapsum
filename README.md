@@ -1,4 +1,4 @@
-# rcapsum
+# rcipsum
 
 ### what it is it?
 **r**aymond **c**arver lorem**ipsum** is an implmementation of a really basic markov chain based text generator.
