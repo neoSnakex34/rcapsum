@@ -1,7 +1,7 @@
 # rcapsum
 
 ### what it is it?
-**r**aymond **ca**rver loremi**psum** is an implmementation of a really basic markov chains based text generator.
+**r**aymond **ca**rver loremi**psum** is an implmementation of a really basic markov chain based text generator.
 It uses a gibberish text set based on a Raymon Carver novel (heavily edited to fit in fair use).
 It accepts a min_len argument to select how many words one wants to generate.
 
